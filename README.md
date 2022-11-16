@@ -8,4 +8,4 @@ In the project directory, you can run:
 
 ### `npm install`
 
-### `npm star`
+### `npm start`
