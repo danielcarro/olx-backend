@@ -1,6 +1,6 @@
 # OLX Clone
 
-this project was made in React class - B7web
+this project was made in NodeJs - B7web
 Student DEV - Daniel Carro
 
 
