@@ -1,11 +1,20 @@
-# OLX Clone
+# Clone OLX
 
-This project was made in NodeJs - B7web
-Student DEV - Daniel Carro
+Este projeto foi base do no site da OLX.
+
+Frontend was created with ReactJS + Typescript
+
+Backend was created with NodeJS + MongoDB
+
+[See Project working](http://olx.dcdev.site)
 
 
-In the project directory, you can run:
+## Available Scripts
+
+Installation
 
 ### `npm install`
+
+In the project directory, you can run:
 
 ### `npm start`
